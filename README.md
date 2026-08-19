@@ -46,3 +46,4 @@ Yes. It writes optimized launch options to your Steam config.
 ## License
 
 MIT
+ 
